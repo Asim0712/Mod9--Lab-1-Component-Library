@@ -1,6 +1,7 @@
 
 import type { ProductDisplayProps } from "../../types";
 
+
 const product = {
   id: '1',
   name: 'Wireless Headphones',
